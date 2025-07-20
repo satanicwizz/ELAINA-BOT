@@ -9,20 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Akshay-Eypz/whatsapp-bot.git"
+    "url": "git+https://github.com/satanicwizz/ELAINA-BOT.git"
   },
   "keywords": [
     "bot",
-    "Akshay",
+    "Krishna",
     "WhatsApp",
-    "Eypz"
+    "Ryvet"
   ],
-  "author": "Akshay",
+  "author": "Krishna",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/Akshay-Eypz/whatsapp-bot/issues"
+    "url": "https://github.com/satanicwizz/ELAINA-BOT/issues"
   },
-  "homepage": "https://github.com/Akshay-Eypz/whatsapp-bot#readme",
+  "homepage": "https://github.com/satanicwizz/ELAINA-BOT#readme",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
     "axios": "^1.7.7",
