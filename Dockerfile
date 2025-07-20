@@ -2,7 +2,7 @@ FROM node:20-alpine
 
 RUN apk add --no-cache git ffmpeg bash
 
-RUN git clone https://github.com/eypzffx/WhatsApp-Bot /root/bot/
+RUN git clone https://github.com/satanicwizz/ELAINA-BOT /root/bot/
 
 WORKDIR /root/bot/
 
