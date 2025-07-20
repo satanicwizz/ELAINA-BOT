@@ -1,0 +1,57 @@
+{
+  "name": "whatsapp-bot",
+  "version": "1.0.0",
+  "description": "simple multi device WhatsApp Bot.",
+  "main": "./index.js",
+  "scripts": {
+    "start": "pm2 start . --attach --name whatsapp-bot",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akshay-Eypz/whatsapp-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "Akshay",
+    "WhatsApp",
+    "Eypz"
+  ],
+  "author": "Akshay",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Akshay-Eypz/whatsapp-bot/issues"
+  },
+  "homepage": "https://github.com/Akshay-Eypz/whatsapp-bot#readme",
+  "dependencies": {
+    "@adiwajshing/keyed-db": "^0.2.4",
+    "axios": "^1.7.7",
+    "@adiwajshing/baileys": "npm:baileys-pro",
+    "baileys": "npm:baileys-pro",
+    "browser-id3-writer": "^4.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5",
+    "file-type": "^16.5.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "form-data": "^4.0.0",
+    "got": "^11.8.2",
+    "jimp": "^0.16.13",
+    "jsdom": "^22.1.0",
+    "jsqr": "^1.4.0",
+    "node-webpmux": "^3.1.7",
+    "node-cron": "^3.0.3",
+    "node-fetch": "^2.7.0",
+    "pg": "^8.11.5",
+    "pino": "^8.14.1",
+    "pm2": "^5.3.0",
+    "qrcode": "^1.5.3",
+    "qrcode-reader": "^1.0.4",
+    "say": "^0.16.0",
+    "sequelize": "^6.23.0",
+    "simple-git": "^3.24.0",
+    "socket.io-client": "^4.7.5",
+    "sqlite3": "^5.1.7",
+    "stream-buffers": "^3.0.2",
+    "yt-search": "^2.6.1"
+  }
+}
